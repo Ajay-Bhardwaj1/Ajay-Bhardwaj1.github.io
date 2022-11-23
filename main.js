@@ -38,4 +38,4 @@ function scrollActive(){
         }
     })
 }
-alert("The Portfolio Website Is Under Development")
+alert("This Portfolio Website Is Under Development")
